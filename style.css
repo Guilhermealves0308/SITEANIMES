@@ -1,0 +1,77 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+
+li {
+
+    list-style: none;
+    
+}
+
+#cabecalho {
+
+    border: solid 1px blue;
+
+
+}
+
+#logo {
+
+    text-align: center;
+}
+
+#menu-cabecalho {
+    border: red solid  1px;
+    width: 800px;
+    margin: 0px auto;
+}
+
+#menu-cabecalho li {
+
+    float: left;
+
+}
+
+#menu-cabecalho a {
+
+    padding: 5px 2em;
+    border: solid 1px;
+}
+
+#menu-cabecalho a:hover {
+
+    background: black;
+    color: white;
+}
+
+#area-principal {
+    border: red solid  1px;
+    width: 1000px;
+    margin: 0px auto;
+    background: black;
+}
+
+.clear {
+
+    clear: both;
+}
+
+.carrossel {
+    display: inline-block;
+    margin-top: 5%;
+    padding: 2%;
+    border-radius: 1em;
+    background:red;
+  }
+  #menu-cabecalho li {
+      float:left;
+  }
